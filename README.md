@@ -54,15 +54,15 @@ app/src/main/java/com/example/
 
 ## 截图
 
-| 宝贝集市 | 品种百科 | AI 顾问 |
+| 宝贝集市 | 帖子浏览 | 我的收藏 |
 |:---------:|:---------:|:---------:|
 | <img width="250" alt="宝贝集市" src="https://github.com/user-attachments/assets/6ff59d72-0777-49c1-b936-965e4fdc4a5e" /> | <img width="250" alt="品种百科" src="https://github.com/user-attachments/assets/fe41497e-73fd-4977-8e09-5290029fb78c" /> | <img width="250" alt="AI顾问" src="https://github.com/user-attachments/assets/d1e8b4bf-bb35-42fc-995c-d0f0017a2381" /> |
-| 浏览宠物列表，筛选搜索 | 品种详情与品性雷达图 | 智能问答，快速提问 |
+| 浏览宠物列表，筛选搜索 | 帖子详情 | 收藏详情 |
 
-| 我的收藏 | 发布帖子 |
+| 品种百科 | AI 顾问 |
 |:---------:|:---------:|
 | <img width="250" alt="我的收藏" src="https://github.com/user-attachments/assets/4bb8dfdb-b24d-4f08-90d0-eb5be1dfee0b" /> | <img width="250" alt="发布帖子" src="https://github.com/user-attachments/assets/43e10198-16da-406f-aee7-51770baec57a" /> |
-| 收藏品种与宠物帖子 | 发布送养/出售信息 |
+| 品种详情与品性雷达图 | ai相关问答 |
 
 ## 许可证
 
