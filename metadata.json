@@ -1,0 +1,6 @@
+{
+  "name": "宠物集市",
+  "description": "以猫狗为主的宠物集市和品种百科介绍应用，支持浏览详细品性、精选好物与收藏功能",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
